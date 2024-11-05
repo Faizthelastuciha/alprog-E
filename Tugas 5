@@ -1,0 +1,10 @@
+print("nim = 24241170")
+
+print("nimAwal = 24")
+print("nimAkhir = 70")
+
+print("panjang = nimAkhir")
+print("lebar = nimAwal")
+
+print("luas=panjang * lebar")
+print("mencetak(f" luas dari{panjang}X{lebar}adalah = {luas)")
